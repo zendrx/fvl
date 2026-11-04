@@ -67,11 +67,11 @@ just as the name says it deletes a file with that id
 
 ### fvl internals 
 
-the ppurpose is to stop attacks by storing files as random usigned 32bytes integers and returning it has the id 
+the purpose is to stop attacks by storing files as random usigned 32bytes integers and returning it has the id 
 
 while am still developing most stuffs wont change and probability i will maintain is quite low 
 
-director fvl uses is `fvlBin` 
+directory fvl uses is `fvlBin` 
 
 
 future roadmap is to introduce 
